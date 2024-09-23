@@ -19,7 +19,7 @@ public class WordReserve {
         
          Scanner input = new Scanner(System.in);
         
-        System.out.println("Please enter a word");
+        System.out.println("Please Enter a word");
         
         String word = input.nextLine();
         
